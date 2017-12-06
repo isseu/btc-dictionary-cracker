@@ -1,2 +1,5 @@
-# bitcoin-crack
-Try dictionary words as private keys to fund unused funds
+# bitcoin-dictionary-cracker
+
+Try dictionary words as private keys to find unused funds  
+
+Sadly I didn't find anything... Only some used but empty wallets.
